@@ -13,7 +13,7 @@ The library heading I wrote serves for convenient and beautiful logging of neces
 
 # EXAMPLES
 
-1. ERROR Logs
+1. **ERROR Logs**
 
 ```cpp #include "include/logging.hpp"
 
@@ -28,7 +28,7 @@ int main()
 
 ```
 
-2. SUCCESS Logs
+2. **SUCCESS Logs**
 
 ```cpp #include "include/logging.hpp"
 int main() 
