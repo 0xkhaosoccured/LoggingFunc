@@ -3,12 +3,12 @@
 The library heading I wrote serves for convenient and beautiful logging of necessary information in your projects. Supports simple multithreading.
 
 
-## ✅ TODO
+## TODO
 
-| Статус | Задача                         |
+| Task | Status                        |
 |--------|--------------------------------|
-| [x]    | Multithreading             |
-| [x]    | Logs into files |
+| Multithreading    |     ✅         |
+| Logs into files   | ✅ |
 
 
 
