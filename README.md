@@ -16,3 +16,4 @@ int main()
 }
 
 ```
+![изображение](https://github.com/user-attachments/assets/31c313a0-019a-45c0-8eb4-fa69c85bde52)
