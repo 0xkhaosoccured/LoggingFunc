@@ -1,6 +1,6 @@
 # LoggingFunc
 
-The library heading I wrote serves for convenient and beautiful logging of necessary information in your projects. Supports simple multithreading.
+The header I wrote serves for convenient and beautiful logging of necessary information in your projects. Supports simple multithreading.
 
 
 ## TODO
